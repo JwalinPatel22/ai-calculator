@@ -54,7 +54,7 @@ AI Calculator is an intelligent tool designed to solve mathematical expressions 
 - **AI Integration**: Handwriting recognition with Python Base64 alongside Gemini
 
 ---
-[[Pasted image 20250103132357.png]]
+![[./Pasted image 20250103132357.png]]
 ### Gemini API key
 You can get your Gemini API key from https://aistudio.google.com/
 - Create a `.env` file in calc-backend folder
